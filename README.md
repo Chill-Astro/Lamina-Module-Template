@@ -8,7 +8,7 @@
 
 This is Where Modules for Lamina ✦ are Stored! These Moduls are Loaded through Dynamo Scripties Loader
 
-Get Template [Lamina ✦ Modules Template](https://github.com/Chill-Astro/Lamina-Modules-Template).
+Get Modules for Lamina ✦ [here](https://github.com/Chill-Astro/Lamina-Modules-Repo).
 
 Get Lamina ✦ [here](https://github.com/Chill-Astro/Lamina-Calculator).
 
