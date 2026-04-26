@@ -1,0 +1,56 @@
+{
+  "Metadata": {
+    "Name": "Quadratic Equation Demo",
+    "Author": "Chill-Astro",
+    "Version": "1.0.0",
+    "Description": "Solves ax² + bx + c = 0",
+    "Repo": "Your GitHub Repo URL"
+  },
+  "UI": {
+    "Formula": "x = [-b ± √(b² - 4ac)] / 2a",
+    "Inputs": [
+      { 
+        "Label": "Coefficient a", 
+        "Key": "a", 
+        "Header" : "Enter A",
+        "Placeholder": "1.0" 
+      },
+      { 
+        "Label": "Coefficient b", 
+        "Key": "b", 
+        "Header" : "Enter B",
+        "Placeholder": "0.0" 
+      },
+      { 
+        "Label": "Coefficient c", 
+        "Key": "c", 
+        "Header" : "Enter C",
+        "Placeholder": "0.0" 
+      }
+    ]
+  },
+  "Logic": {
+    "Output": "'x1 = ' + ((-b + Sqrt(Pow(b, 2) - 4*a*c)) / (2*a)) + ' | x2 = ' + ((-b - Sqrt(Pow(b, 2) - 4*a*c)) / (2*a))",
+    "Error": "Invalid Input (Check Discriminant)"
+   }
+}
+
+          {
+            "Metadata": {
+              "Name": "Project Name",
+              "Author": "Your Name",
+              "Version": "1.0.0",
+              "Description": "Explain what this calculates here.",
+              "Repo": "https://github.com/yourlink"
+            },
+            "UI": {
+              "Formula": "Visual representation of the math",
+              "Inputs": [
+                { "Header": "Input Label", "Placeholder": "0.0", "Key": "var_name" }
+              ]
+            },
+            "Logic": {
+              "Output": "NCalc math string using [var_name]",
+              "Error": "Message if math fails"
+            }
+          }
