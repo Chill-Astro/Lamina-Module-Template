@@ -6,69 +6,108 @@
 
 <div align="center">
 
+This is Where Modules for Lamina ✦ are Stored! These Moduls are Loaded through Dynamo Scripties Loader
+
+Get Template [Lamina ✦ Modules Template](https://github.com/Chill-Astro/Lamina-Modules-Template).
+
+Get Lamina ✦ [here](https://github.com/Chill-Astro/Lamina-Calculator).
+
+For Maximum Reach, ensure to Fork the Above Mentioned Repo and I will add you here!
+
+</div>
+
+## WHAT IS DYNAMO???????
+
 Dynamo is a Dynamic Scriptie Loader. Think of MODS in a Game, or Magisk Modules.
 
 Yes that's right! An Importer of Math Scripts. Now you can Program her without Proper Coding Skills!
 
-Get Modules from [Lamina ✦ Modules Repo](https://github.com/Chill-Astro/Lamina-Modules).
-
-Get Lamina ✦ from [Github](https://github.com/Chill-Astro/Lamina-Calculator).
+Check for Details [here!](https://github.com/Chill-Astro/Lamina-Dynamo-Scripties-Loader)
 
 For Maximum Reach, ensure to Fork the Above Mentioned Repo and I will add you to my Modules!
 
-</div>
+---
 
 ## The Basic Structure for a .lamina file :
 
 - A `.lamina` is Essentially a .json file.
+  
 - Structure :
 
         
-          {
-            "Metadata": {
-              "Name": "", // This is What your Module Shows Up!
-              "Author": "", // Write your Username.
-              "Version": "", // This is the Version of your Scriptie.
-              "Description": "", //
-              "Repo": "https://github.com/yourlink"
+      {
+        "Metadata": {
+          "Name": "", // This is What your Module Shows Up!
+          "Author": "", // Write your Username.
+          "Version": "", // This is the Version of your Scriptie.
+          "Description": "", //
+          "Repo": "https://github.com/yourlink"
+        },
+        "UI": {
+          "Formula": "", // Example y = mx + c
+          "Inputs": [
+            { "Header": "Input Label", "Placeholder": "0.0", "Key": "var_name" } // Add as many as you like.
+          ]
+        },
+        "Logic": {
+          "Output": "NCalc math string using [var_name]", // Your Output.
+          "Error": "Message if math fails" // Your Error.
+        }
+      }
+
+- Example :
+
+      {
+        "Metadata": {
+          "Name": "Quadratic Equation Demo",
+          "Author": "Chill-Astro Software",
+          "Version": "1.0",
+          "Description": "Solves ax² + bx + c = 0",
+          "Repo": "https://github.com/Chill-Astro/Lamina-Modules-Repo"
+        },
+        "UI": {
+          "Formula": "x = [-b ± √(b² - 4ac)] / 2a",
+          "Inputs": [
+            { 
+              "Label": "Coefficient a", 
+              "Key": "a", 
+              "Header" : "Enter A",
+              "Placeholder": "1.0" 
             },
-            "UI": {
-              "Formula": "", // Example y = mx + c
-              "Inputs": [
-                { "Header": "Input Label", "Placeholder": "0.0", "Key": "var_name" } // Add as many as you like.
-              ]
+            { 
+              "Label": "Coefficient b", 
+              "Key": "b", 
+              "Header" : "Enter B",
+              "Placeholder": "0.0" 
             },
-            "Logic": {
-              "Output": "NCalc math string using [var_name]", // Your Output.
-              "Error": "Message if math fails" // Your Error.
+            { 
+              "Label": "Coefficient c", 
+              "Key": "c", 
+              "Header" : "Enter C",
+              "Placeholder": "0.0" 
             }
-          }
+          ]
+        },
+        "Logic": {
+          "Output": "'x1 = ' + ((-b + Sqrt(Pow(b, 2) - 4*a*c)) / (2*a)) + ' | x2 = ' + ((-b - Sqrt(Pow(b, 2) - 4*a*c)) / (2*a))",
+          "Error": "Invalid Input (Check Discriminant)"
+         }
+      }
+
 
 ---
 
 ## Contributing :
 
-- Fork this Repo and Clone it.
-- Template Code is Given with an Example for Understanding. Modify as you Need.
-- I will add you to the [Lamina ✦ Modules Repo](https://github.com/Chill-Astro/Lamina-Modules).
+- Fork [Lamina ✦ Modules Template](https://github.com/Chill-Astro/Lamina-Modules-Template).
+- Sample Code is Given. Modify as you Need.
+- I will add you to the Lamina ✦ Modules Repo
 
 ---
 
-## HALL OF FAME 👍 : 
+## HALL OF FAME MODULES 👍 : 
 
-// Will add Forked Repos which are genuinely good. 🤩 I will list everything Good about them.
-
----
-
-## HALL OF NEUTRALITY 😐 :
-
-// Will add Inactive Forks. Uh yeah that's it atleast it's Forking not Cloning! 😅
-
----
-
-## HALL OF SHAME 👎 :
-
-// Includes Clones who are working against the MIT Licence and Distributing Malware. All Flaws are mentioned. 😑
+// Will Add Modules Here!
 
 ---
 
@@ -77,7 +116,7 @@ For Maximum Reach, ensure to Fork the Above Mentioned Repo and I will add you to
 Please be aware: There are fraudulent repositories on GitHub that are cloning this project's name and using AI-generated readmes, but they contain **completely random and unrelated files in each release**. These are NOT official versions of this project.
 
 **ALWAYS ensure you are downloading or cloning this project ONLY from its official and legitimate source:**
-`https://github.com/Chill-Astro/Lamina-Module-Template`
+`https://github.com/Chill-Astro/Lamina-Modules-Repo`
 
 I am trying my best to report these people.
 
