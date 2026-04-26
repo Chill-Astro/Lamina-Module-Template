@@ -1,0 +1,19 @@
+{
+  "Metadata": {
+    "Name": "", // This is What your Module Shows Up!
+    "Author": "", // Write your Username.
+    "Version": "", // This is the Version of your Scriptie.
+    "Description": "", //
+    "Repo": "https://github.com/yourlink"
+  },
+  "UI": {
+    "Formula": "", // Example y = mx + c
+    "Inputs": [
+      { "Header": "Input Label", "Placeholder": "0.0", "Key": "var_name" } // Add as many as you like.
+    ]
+  },
+  "Logic": {
+    "Output": "NCalc math string using [var_name]", // Your Output.
+    "Error": "Message if math fails" // Your Error.
+  }
+}
