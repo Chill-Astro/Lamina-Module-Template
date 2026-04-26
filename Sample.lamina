@@ -1,10 +1,10 @@
 {
   "Metadata": {
     "Name": "Quadratic Equation Demo",
-    "Author": "Chill-Astro",
-    "Version": "1.0.0",
+    "Author": "Chill-Astro Software",
+    "Version": "1.0",
     "Description": "Solves ax² + bx + c = 0",
-    "Repo": "Your GitHub Repo URL"
+    "Repo": "https://github.com/Chill-Astro/Lamina-Modules-Repo"
   },
   "UI": {
     "Formula": "x = [-b ± √(b² - 4ac)] / 2a",
@@ -34,23 +34,3 @@
     "Error": "Invalid Input (Check Discriminant)"
    }
 }
-
-          {
-            "Metadata": {
-              "Name": "Project Name",
-              "Author": "Your Name",
-              "Version": "1.0.0",
-              "Description": "Explain what this calculates here.",
-              "Repo": "https://github.com/yourlink"
-            },
-            "UI": {
-              "Formula": "Visual representation of the math",
-              "Inputs": [
-                { "Header": "Input Label", "Placeholder": "0.0", "Key": "var_name" }
-              ]
-            },
-            "Logic": {
-              "Output": "NCalc math string using [var_name]",
-              "Error": "Message if math fails"
-            }
-          }
