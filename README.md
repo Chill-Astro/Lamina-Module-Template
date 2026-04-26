@@ -10,9 +10,9 @@ Dynamo is a Dynamic Scriptie Loader. Think of MODS in a Game, or Magisk Modules.
 
 Yes that's right! An Importer of Math Scripts. Now you can Program her without Proper Coding Skills!
 
-Get Modules [here](https://github.com/Chill-Astro/Lamina-Modules).
+Get Modules from [Lamina ✦ Modules Repo](https://github.com/Chill-Astro/Lamina-Modules).
 
-Get Template [Lamina ✦ Modules Template](https://github.com/Chill-Astro/Lamina-Modules-Template).
+Get Lamina ✦ from [Github](https://github.com/Chill-Astro/Lamina-Calculator).
 
 For Maximum Reach, ensure to Fork the Above Mentioned Repo and I will add you to my Modules!
 
@@ -48,8 +48,8 @@ For Maximum Reach, ensure to Fork the Above Mentioned Repo and I will add you to
 
 ## Contributing :
 
-- Fork [Lamina ✦ Modules Template](https://github.com/Chill-Astro/Lamina-Modules-Template).
-- Sample Code is Given. Modify as you Need.
+- Fork this Repo and Clone it.
+- Template Code is Given with an Example for Understanding. Modify as you Need.
 - I will add you to the [Lamina ✦ Modules Repo](https://github.com/Chill-Astro/Lamina-Modules).
 
 ---
@@ -70,8 +70,6 @@ For Maximum Reach, ensure to Fork the Above Mentioned Repo and I will add you to
 
 // Includes Clones who are working against the MIT Licence and Distributing Malware. All Flaws are mentioned. 😑
 
-- She has previously Calculator has undergone Malware Attacks.
-
 ---
 
 ## ⚠️ IMPORTANT NOTICE ⚠️
@@ -79,7 +77,7 @@ For Maximum Reach, ensure to Fork the Above Mentioned Repo and I will add you to
 Please be aware: There are fraudulent repositories on GitHub that are cloning this project's name and using AI-generated readmes, but they contain **completely random and unrelated files in each release**. These are NOT official versions of this project.
 
 **ALWAYS ensure you are downloading or cloning this project ONLY from its official and legitimate source:**
-`https://github.com/Chill-Astro/Lamina-Dynamo-Scripties-Loader`
+`https://github.com/Chill-Astro/Lamina-Module-Template`
 
 I am trying my best to report these people.
 
