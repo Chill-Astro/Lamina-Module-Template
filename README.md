@@ -99,7 +99,7 @@ For Maximum Reach, ensure to Fork the Above Mentioned Repo and I will add you to
 
 ## Contributing :
 
-- Fork [Lamina ✦ Modules Template](https://github.com/Chill-Astro/Lamina-Modules-Template).
+- Fork this Repo.
 - Sample Code is Given. Modify as you Need.
 - I will add you to the Lamina ✦ Modules Repo
 
