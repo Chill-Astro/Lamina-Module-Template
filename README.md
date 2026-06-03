@@ -101,13 +101,7 @@ For Maximum Reach, ensure to Fork the Above Mentioned Repo and I will add you to
 
 - Fork this Repo.
 - Sample Code is Given. Modify as you Need.
-- I will add you to the Lamina ✦ Modules Repo
-
----
-
-## HALL OF FAME MODULES 👍 : 
-
-// Will Add Modules Here!
+- I will add you to the Lamina ✦ Modules Repo!
 
 ---
 
