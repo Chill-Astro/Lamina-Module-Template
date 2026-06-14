@@ -107,7 +107,7 @@ I am trying my best to report these people.
 ## ⚠️ Smoking Gun for Danger :
 
 > [!CAUTION]
-> **MALWARE ALERT:** If your downloaded folder looks like the images below, **DO NOT OPEN** any files. Format the drive or delete the folder immediately. Official releases are ONLY `.msix` files or an Inno Setup `.exe`.
+> **MALWARE ALERT:** If your downloaded folder looks like the images below, **DO NOT OPEN** any files. Format the drive or delete the folder immediately. There are NO Official Releases!
 
 <details>
 <summary><b>View Details</b></summary>
