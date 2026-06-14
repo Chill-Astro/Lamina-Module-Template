@@ -6,7 +6,7 @@
 
 <div align="center">
 
-This is Where Modules for Lamina ✦ are Stored! These Moduls are Loaded through Dynamo Scripties Loader
+Template Module for Lamina ✦!
 
 Get Modules for Lamina ✦ [here](https://github.com/Chill-Astro/Lamina-Modules-Repo).
 
@@ -15,18 +15,6 @@ Get Lamina ✦ [here](https://github.com/Chill-Astro/Lamina-Calculator).
 For Maximum Reach, ensure to Fork the Above Mentioned Repo and I will add you here!
 
 </div>
-
-## WHAT IS DYNAMO???????
-
-Dynamo is a Dynamic Scriptie Loader. Think of MODS in a Game, or Magisk Modules.
-
-Yes that's right! An Importer of Math Scripts. Now you can Program her without Proper Coding Skills!
-
-Check for Details [here!](https://github.com/Chill-Astro/Lamina-Dynamo-Scripties-Loader)
-
-For Maximum Reach, ensure to Fork the Above Mentioned Repo and I will add you to my Modules!
-
----
 
 ## The Basic Structure for a .lamina file :
 
@@ -110,7 +98,7 @@ For Maximum Reach, ensure to Fork the Above Mentioned Repo and I will add you to
 Please be aware: There are fraudulent repositories on GitHub that are cloning this project's name and using AI-generated readmes, but they contain **completely random and unrelated files in each release**. These are NOT official versions of this project.
 
 **ALWAYS ensure you are downloading or cloning this project ONLY from its official and legitimate source:**
-`https://github.com/Chill-Astro/Lamina-Modules-Repo`
+`https://github.com/Chill-Astro/Lamina-Module-Template`
 
 I am trying my best to report these people.
 
