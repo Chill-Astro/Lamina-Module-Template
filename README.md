@@ -95,7 +95,7 @@ For Maximum Reach, ensure to Fork the Above Mentioned Repo and I will add you he
 
 ## Note from Developer :
 
-A Star ⭐ will be Appreciated to Support this Guide! :)
+A Star ⭐ will be Appreciated to Support this Project! :)
 
 ---
 
