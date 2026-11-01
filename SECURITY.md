@@ -19,7 +19,7 @@
 
 
 > [!CAUTION]
-> If your downloaded folder looks like the images below, **DO NOT OPEN** any files. Official Releases are only in **MSIX & EXE** Files!
+> If your downloaded folder looks like the images below, **DO NOT OPEN** any files.
 
 <details>
 <summary><b>View Details</b></summary>
